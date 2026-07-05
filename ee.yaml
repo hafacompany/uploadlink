@@ -13,7 +13,7 @@ dns:
     - 8.8.8.8
 
 proxies:
-  - name: Family
+  - name: Family1
     type: vless
     server: 104.17.147.22
     port: 443
@@ -33,7 +33,7 @@ proxies:
       headers:
         Host: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
 
-  - name: Family
+  - name: Family2
     type: vless
     server: 104.17.148.22
     port: 443
@@ -53,7 +53,7 @@ proxies:
       headers:
         Host: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
 
-  - name: Family
+  - name: Family3
     type: vless
     server: 104.18.20.249
     port: 443
@@ -73,7 +73,7 @@ proxies:
       headers:
         Host: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
 
-  - name: Family
+  - name: Family4
     type: vless
     server: 172.67.193.169
     port: 443
@@ -93,7 +93,7 @@ proxies:
       headers:
         Host: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
 
-  - name: Family
+  - name: Family5
     type: vless
     server: 170.114.45.220
     port: 443
@@ -113,7 +113,7 @@ proxies:
       headers:
         Host: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
 
-  - name: Family
+  - name: Family6
     type: vless
     server: 103.160.204.235
     port: 443
@@ -133,7 +133,7 @@ proxies:
       headers:
         Host: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
 
-  - name: Family
+  - name: Family7
     type: vless
     server: 195.85.23.34
     port: 443
@@ -161,25 +161,25 @@ proxy-groups:
     tolerance: 100
     lazy: true
     proxies:
-      - Family
-      - Family
-      - Family
-      - Family
-      - Family
-      - Family
-      - Family
+      - Family1
+      - Family2
+      - Family3
+      - Family4
+      - Family5
+      - Family6
+      - Family7
 
   - name: Proxy
     type: select
     proxies:
       - Auto
-      - Family
-      - Family
-      - Family
-      - Family
-      - Family
-      - Family
-      - Family
+      - Family1
+      - Family2
+      - Family3
+      - Family4
+      - Family5
+      - Family6
+      - Family7
       - DIRECT
 
 rules:
