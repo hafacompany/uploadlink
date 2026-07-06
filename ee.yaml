@@ -13,15 +13,15 @@ dns:
     - 8.8.8.8
 
 proxies:
-  - name: Family1
+  - name: AndroidBox1
     type: vless
     server: 104.17.147.22
     port: 443
-    uuid: b726a026-2c6f-4848-a562-b6410cfa5898
+    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
     network: ws
     tls: true
     udp: true
-    servername: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
+    servername: PrOgerameR-poWer-pC.powER-prOGerAmer.WorkERS.dEV
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -29,19 +29,19 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/hafa"
+      path: "/eyJqdW5rIjoieG9kUkdsTXNWSzE3NiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjg0LjMyLjIzMC4yMDEiXX0=?ed=2560"
       headers:
-        Host: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
+        Host: progeramer-power-pc.power-progeramer.workers.dev
 
-  - name: Family2
+  - name: AndroidBox2
     type: vless
     server: 104.17.148.22
     port: 443
-    uuid: b726a026-2c6f-4848-a562-b6410cfa5898
+    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
     network: ws
     tls: true
     udp: true
-    servername: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
+    servername: progeRaMEr-Power-pc.pOWEr-PROGErAmer.woRKeRs.DEV
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -49,19 +49,19 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/hafa"
+      path: "/eyJqdW5rIjoiakczRmQ4TmxyUVplcVFiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
       headers:
-        Host: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
+        Host: progeramer-power-pc.power-progeramer.workers.dev
 
-  - name: Family3
+  - name: AndroidBox3
     type: vless
     server: 104.18.20.249
     port: 443
-    uuid: b726a026-2c6f-4848-a562-b6410cfa5898
+    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
     network: ws
     tls: true
     udp: true
-    servername: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
+    servername: PROGERamEr-poweR-pC.PoWeR-PrOGeRaMEr.WoRkers.dEV
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -69,19 +69,19 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/hafa"
+      path: "/eyJqdW5rIjoiYXYyYVAyZXV5aExmSERpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
       headers:
-        Host: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
+        Host: progeramer-power-pc.power-progeramer.workers.dev
 
-  - name: Family4
+  - name: AndroidBox4
     type: vless
     server: 172.67.193.169
     port: 443
-    uuid: b726a026-2c6f-4848-a562-b6410cfa5898
+    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
     network: ws
     tls: true
     udp: true
-    servername: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
+    servername: PrOgerameR-poWer-pC.powER-prOGerAmer.WorkERS.dEV
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -89,19 +89,39 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/hafa"
+      path: "/eyJqdW5rIjoieG9kUkdsTXNWSzE3NiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjg0LjMyLjIzMC4yMDEiXX0=?ed=2560"
       headers:
-        Host: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
+        Host: progeramer-power-pc.power-progeramer.workers.dev
 
-  - name: Family5
+  - name: AndroidBox5
+    type: vless
+    server: 104.21.16.192
+    port: 443
+    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
+    network: ws
+    tls: true
+    udp: true
+    servername: PROGERamEr-poweR-pC.PoWeR-PrOGeRaMEr.WoRkers.dEV
+    skip-cert-verify: false
+    client-fingerprint: firefox
+    alpn:
+      - h3
+      - h2
+      - http/1.1
+    ws-opts:
+      path: "/eyJqdW5rIjoiYXYyYVAyZXV5aExmSERpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
+      headers:
+        Host: progeramer-power-pc.power-progeramer.workers.dev
+
+  - name: AndroidBox6
     type: vless
     server: 170.114.45.220
     port: 443
-    uuid: b726a026-2c6f-4848-a562-b6410cfa5898
+    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
     network: ws
     tls: true
     udp: true
-    servername: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
+    servername: PROGERamEr-poweR-pC.PoWeR-PrOGeRaMEr.WoRkers.dEV
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -109,19 +129,19 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/hafa"
+      path: "/eyJqdW5rIjoiYXYyYVAyZXV5aExmSERpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
       headers:
-        Host: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
+        Host: progeramer-power-pc.power-progeramer.workers.dev
 
-  - name: Family6
+  - name: AndroidBox7
     type: vless
     server: 103.160.204.235
     port: 443
-    uuid: b726a026-2c6f-4848-a562-b6410cfa5898
+    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
     network: ws
     tls: true
     udp: true
-    servername: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
+    servername: PROGERamEr-poweR-pC.PoWeR-PrOGeRaMEr.WoRkers.dEV
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -129,19 +149,19 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/hafa"
+      path: "/eyJqdW5rIjoiYXYyYVAyZXV5aExmSERpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
       headers:
-        Host: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
+        Host: progeramer-power-pc.power-progeramer.workers.dev
 
-  - name: Family7
+  - name: AndroidBox8
     type: vless
     server: 195.85.23.34
     port: 443
-    uuid: b726a026-2c6f-4848-a562-b6410cfa5898
+    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
     network: ws
     tls: true
     udp: true
-    servername: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
+    servername: PROGERamEr-poweR-pC.PoWeR-PrOGeRaMEr.WoRkers.dEV
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -149,9 +169,49 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/hafa"
+      path: "/eyJqdW5rIjoiYXYyYVAyZXV5aExmSERpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
       headers:
-        Host: pcgame-callof-duty.2xmovies1-z05iese2fi.workers.dev
+        Host: progeramer-power-pc.power-progeramer.workers.dev
+
+  - name: AndroidBox9
+    type: vless
+    server: 104.18.20.249
+    port: 443
+    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
+    network: ws
+    tls: true
+    udp: true
+    servername: PROGERamEr-poweR-pC.PoWeR-PrOGeRaMEr.WoRkers.dEV
+    skip-cert-verify: false
+    client-fingerprint: firefox
+    alpn:
+      - h3
+      - h2
+      - http/1.1
+    ws-opts:
+      path: "/eyJqdW5rIjoiYXYyYVAyZXV5aExmSERpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
+      headers:
+        Host: progeramer-power-pc.power-progeramer.workers.dev
+
+  - name: AndroidBox10
+    type: vless
+    server: 104.16.1.19
+    port: 443
+    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
+    network: ws
+    tls: true
+    udp: true
+    servername: PROGERamEr-poweR-pC.PoWeR-PrOGeRaMEr.WoRkers.dEV
+    skip-cert-verify: false
+    client-fingerprint: firefox
+    alpn:
+      - h3
+      - h2
+      - http/1.1
+    ws-opts:
+      path: "/eyJqdW5rIjoiYXYyYVAyZXV5aExmSERpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
+      headers:
+        Host: progeramer-power-pc.power-progeramer.workers.dev
 
 proxy-groups:
   - name: Auto
@@ -161,25 +221,31 @@ proxy-groups:
     tolerance: 100
     lazy: true
     proxies:
-      - Family1
-      - Family2
-      - Family3
-      - Family4
-      - Family5
-      - Family6
-      - Family7
+      - AndroidBox1
+      - AndroidBox2
+      - AndroidBox3
+      - AndroidBox4
+      - AndroidBox5
+      - AndroidBox6
+      - AndroidBox7
+      - AndroidBox8
+      - AndroidBox9
+      - AndroidBox10
 
   - name: Proxy
     type: select
     proxies:
       - Auto
-      - Family1
-      - Family2
-      - Family3
-      - Family4
-      - Family5
-      - Family6
-      - Family7
+      - AndroidBox1
+      - AndroidBox2
+      - AndroidBox3
+      - AndroidBox4
+      - AndroidBox5
+      - AndroidBox6
+      - AndroidBox7
+      - AndroidBox8
+      - AndroidBox9
+      - AndroidBox10
       - DIRECT
 
 rules:
