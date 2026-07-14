@@ -13,15 +13,15 @@ dns:
     - 8.8.8.8
 
 proxies:
-  - name: AndroidBox1
+  - name: HF1
     type: vless
     server: 104.17.147.22
     port: 443
-    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
+    uuid: 26a73566-19fb-4034-a514-a3b006ae6a7b
     network: ws
     tls: true
     udp: true
-    servername: PrOgerameR-poWer-pC.powER-prOGerAmer.WorkERS.dEV
+    servername: orogeram-family-html.shop-shopmobile.workers.dev
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -29,19 +29,19 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/eyJqdW5rIjoieG9kUkdsTXNWSzE3NiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjg0LjMyLjIzMC4yMDEiXX0=?ed=2560"
+      path: "/?ed=2560"
       headers:
-        Host: progeramer-power-pc.power-progeramer.workers.dev
+        Host: orogeram-family-html.shop-shopmobile.workers.dev
 
-  - name: AndroidBox2
+  - name: HF2
     type: vless
     server: 104.17.148.22
     port: 443
-    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
+    uuid: 26a73566-19fb-4034-a514-a3b006ae6a7b
     network: ws
     tls: true
     udp: true
-    servername: progeRaMEr-Power-pc.pOWEr-PROGErAmer.woRKeRs.DEV
+    servername: orogeram-family-html.shop-shopmobile.workers.dev
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -49,19 +49,19 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/eyJqdW5rIjoiakczRmQ4TmxyUVplcVFiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
+      path: "/?ed=2560"
       headers:
-        Host: progeramer-power-pc.power-progeramer.workers.dev
+        Host: orogeram-family-html.shop-shopmobile.workers.dev
 
-  - name: AndroidBox3
+  - name: HF3
     type: vless
     server: 104.18.20.249
     port: 443
-    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
+    uuid: 26a73566-19fb-4034-a514-a3b006ae6a7b
     network: ws
     tls: true
     udp: true
-    servername: PROGERamEr-poweR-pC.PoWeR-PrOGeRaMEr.WoRkers.dEV
+    servername: orogeram-family-html.shop-shopmobile.workers.dev
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -69,19 +69,19 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/eyJqdW5rIjoiYXYyYVAyZXV5aExmSERpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
+      path: "/?ed=2560"
       headers:
-        Host: progeramer-power-pc.power-progeramer.workers.dev
+        Host: orogeram-family-html.shop-shopmobile.workers.dev
 
-  - name: AndroidBox4
+  - name: HF4
     type: vless
     server: 172.67.193.169
     port: 443
-    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
+    uuid: 26a73566-19fb-4034-a514-a3b006ae6a7b
     network: ws
     tls: true
     udp: true
-    servername: PrOgerameR-poWer-pC.powER-prOGerAmer.WorkERS.dEV
+    servername: orogeram-family-html.shop-shopmobile.workers.dev
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -89,19 +89,19 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/eyJqdW5rIjoieG9kUkdsTXNWSzE3NiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjg0LjMyLjIzMC4yMDEiXX0=?ed=2560"
+      path: "/?ed=2560"
       headers:
-        Host: progeramer-power-pc.power-progeramer.workers.dev
+        Host: orogeram-family-html.shop-shopmobile.workers.dev
 
-  - name: AndroidBox5
+  - name: HF5
     type: vless
     server: 104.21.16.192
     port: 443
-    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
+    uuid: 26a73566-19fb-4034-a514-a3b006ae6a7b
     network: ws
     tls: true
     udp: true
-    servername: PROGERamEr-poweR-pC.PoWeR-PrOGeRaMEr.WoRkers.dEV
+    servername: orogeram-family-html.shop-shopmobile.workers.dev
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -109,19 +109,19 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/eyJqdW5rIjoiYXYyYVAyZXV5aExmSERpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
+      path: "/?ed=2560"
       headers:
-        Host: progeramer-power-pc.power-progeramer.workers.dev
+        Host: orogeram-family-html.shop-shopmobile.workers.dev
 
-  - name: AndroidBox6
+  - name: HF6
     type: vless
     server: 170.114.45.220
     port: 443
-    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
+    uuid: 26a73566-19fb-4034-a514-a3b006ae6a7b
     network: ws
     tls: true
     udp: true
-    servername: PROGERamEr-poweR-pC.PoWeR-PrOGeRaMEr.WoRkers.dEV
+    servername: orogeram-family-html.shop-shopmobile.workers.dev
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -129,19 +129,19 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/eyJqdW5rIjoiYXYyYVAyZXV5aExmSERpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
+      path: "/?ed=2560"
       headers:
-        Host: progeramer-power-pc.power-progeramer.workers.dev
+        Host: orogeram-family-html.shop-shopmobile.workers.dev
 
-  - name: AndroidBox7
+  - name: HF7
     type: vless
     server: 103.160.204.235
     port: 443
-    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
+    uuid: 26a73566-19fb-4034-a514-a3b006ae6a7b
     network: ws
     tls: true
     udp: true
-    servername: PROGERamEr-poweR-pC.PoWeR-PrOGeRaMEr.WoRkers.dEV
+    servername: orogeram-family-html.shop-shopmobile.workers.dev
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -149,19 +149,19 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/eyJqdW5rIjoiYXYyYVAyZXV5aExmSERpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
+      path: "/?ed=2560"
       headers:
-        Host: progeramer-power-pc.power-progeramer.workers.dev
+        Host: orogeram-family-html.shop-shopmobile.workers.dev
 
-  - name: AndroidBox8
+  - name: HF8
     type: vless
     server: 195.85.23.34
     port: 443
-    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
+    uuid: 26a73566-19fb-4034-a514-a3b006ae6a7b
     network: ws
     tls: true
     udp: true
-    servername: PROGERamEr-poweR-pC.PoWeR-PrOGeRaMEr.WoRkers.dEV
+    servername: orogeram-family-html.shop-shopmobile.workers.dev
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -169,19 +169,19 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/eyJqdW5rIjoiYXYyYVAyZXV5aExmSERpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
+      path: "/?ed=2560"
       headers:
-        Host: progeramer-power-pc.power-progeramer.workers.dev
+        Host: orogeram-family-html.shop-shopmobile.workers.dev
 
-  - name: AndroidBox9
+  - name: HF9
     type: vless
     server: 104.18.20.249
     port: 443
-    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
+    uuid: 26a73566-19fb-4034-a514-a3b006ae6a7b
     network: ws
     tls: true
     udp: true
-    servername: PROGERamEr-poweR-pC.PoWeR-PrOGeRaMEr.WoRkers.dEV
+    servername: orogeram-family-html.shop-shopmobile.workers.dev
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -189,19 +189,19 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/eyJqdW5rIjoiYXYyYVAyZXV5aExmSERpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
+      path: "/?ed=2560"
       headers:
-        Host: progeramer-power-pc.power-progeramer.workers.dev
+        Host: orogeram-family-html.shop-shopmobile.workers.dev
 
-  - name: AndroidBox10
+  - name: HF10
     type: vless
     server: 104.16.1.19
     port: 443
-    uuid: aca3b396-5b6e-413d-a949-9e24936e0b6e
+    uuid: 26a73566-19fb-4034-a514-a3b006ae6a7b
     network: ws
     tls: true
     udp: true
-    servername: PROGERamEr-poweR-pC.PoWeR-PrOGeRaMEr.WoRkers.dEV
+    servername: orogeram-family-html.shop-shopmobile.workers.dev
     skip-cert-verify: false
     client-fingerprint: firefox
     alpn:
@@ -209,9 +209,9 @@ proxies:
       - h2
       - http/1.1
     ws-opts:
-      path: "/eyJqdW5rIjoiYXYyYVAyZXV5aExmSERpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODQuMzIuMjMwLjIwMSJdfQ==?ed=2560"
+      path: "/?ed=2560"
       headers:
-        Host: progeramer-power-pc.power-progeramer.workers.dev
+        Host: orogeram-family-html.shop-shopmobile.workers.dev
 
 proxy-groups:
   - name: Auto
@@ -221,31 +221,31 @@ proxy-groups:
     tolerance: 100
     lazy: true
     proxies:
-      - AndroidBox1
-      - AndroidBox2
-      - AndroidBox3
-      - AndroidBox4
-      - AndroidBox5
-      - AndroidBox6
-      - AndroidBox7
-      - AndroidBox8
-      - AndroidBox9
-      - AndroidBox10
+      - HF1
+      - HF2
+      - HF3
+      - HF4
+      - HF5
+      - HF6
+      - HF7
+      - HF8
+      - HF9
+      - HF10
 
   - name: Proxy
     type: select
     proxies:
       - Auto
-      - AndroidBox1
-      - AndroidBox2
-      - AndroidBox3
-      - AndroidBox4
-      - AndroidBox5
-      - AndroidBox6
-      - AndroidBox7
-      - AndroidBox8
-      - AndroidBox9
-      - AndroidBox10
+      - HF1
+      - HF2
+      - HF3
+      - HF4
+      - HF5
+      - HF6
+      - HF7
+      - HF8
+      - HF9
+      - HF10
       - DIRECT
 
 rules:
